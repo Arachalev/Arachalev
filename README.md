@@ -19,7 +19,7 @@
 ###
 - :mailbox:How to reach me:
 -  [![Linkedin Badge](https://img.shields.io/badge/-Ekong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubon-abasi-ekong-b72400220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6BotmofSEKZuZ8hZrsy0w%3D%3D)
-- ![Email Badge](https://img.shields.io/badge/-Email-green):<a href = 'mailto:ekongedet01@gmail.com'>ekongedet01@gmail.com</a>
+- ![Email Badge](https://img.shields.io/badge/-Email-green):  <a align="center" href ='mailto:ekongedet01@gmail.com'>ekongedet01@gmail.com</a>
 
 ---
 
