@@ -25,7 +25,7 @@
 
 ### 👨‍💻
 
-:wave: I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Lagos,Nigeria.
+:wave: I am a Frontend and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Lagos,Nigeria.
 
 - :telescope: I’m working as a Software Engineer, curently specialised on the Frontend.
 
