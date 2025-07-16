@@ -1,5 +1,10 @@
  👋 Hi, I’m Ekong Edet
-  A Software developer from Lagos, Nigeria
+  A Software developer from Lagos, Nigeria 
+  I currently build enterprise grade solutions at Stanbic IBTC Bank
+
+  While my GitHub contribution graph might look quiet, that’s only because most of my work is done on private Azure DevOps repos.
+
+🚧 Don’t worry — I’m actively coding, shipping features, and solving real-world problems every day!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -27,7 +32,7 @@
 
 :wave: I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Lagos,Nigeria.
 
-- :telescope: I’m working as a Engineer, curently specialised on the Frontend and Mobile.
+- :telescope: I’m working as a Mobile Engineer, and curently specialised on the Frontend and Mobile. I'm also currently learning Rust.
 
 - :seedling: Upskilling, Technical Writing and learning about new technologies.
 
